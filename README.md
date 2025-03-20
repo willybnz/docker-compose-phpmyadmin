@@ -13,6 +13,7 @@ Once you have access to the graphical interface you can select your database in 
 
 Similarly we can check access to mysql from our container by typing: <br>
 -    docker exec -it mysql_db mysql -u root -p <br>
+
 In my case I tried to create a table directly from my container where I have access to my database.
 
 ![container_access](images/Capture%20d'écran%202025-03-20%20154432.png)
