@@ -4,7 +4,7 @@ Deploying phpMyAdmin with Docker Compose for easy MySQL/MariaDB management.
 # how to test 
 
 You need to type the following command: <br>    
-    docker compose up -d  <br>
+-    docker compose up -d  <br>
 Then once this is done you can access the web interface by typing:<br>
     http://localhost:8080
 
